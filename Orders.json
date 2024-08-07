@@ -1,0 +1,19 @@
+{
+  "links" : {
+    "self" : {
+      "href" : "/orders"
+    },
+    "next" : {
+      "href" : "/orders?page=2"
+    }
+  },
+  "results" : [ {
+    "id" : 7235,
+    "total" : 78.22,
+    "customerId" : 9001
+  }, {
+    "id" : 7236,
+    "total" : 301.97,
+    "customerId" : 9200
+  } ]
+}

@@ -1,0 +1,11 @@
+[ {
+  "user" : [ {
+    "id" : "123123",
+    "value" : "jerry"
+  } ],
+  "manager" : [ {
+    "id" : "234234",
+    "value" : "ENG"
+  } ],
+  "pinName" : "PIN11111"
+} ]

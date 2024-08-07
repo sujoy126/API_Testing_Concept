@@ -1,0 +1,8 @@
+{
+  "balanceDate" : "2024-07-11",
+  "accountBalance" : {
+    "acNum" : 1234567898,
+    "country" : "India",
+    "acType" : "Savings"
+  }
+}

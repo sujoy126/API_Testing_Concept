@@ -1,0 +1,8 @@
+{
+     "balanceDate": "2024-07-11",
+     "AccountBalance": [{
+                          "ACnum": 12345678901,
+                         "country": "India",
+                          "AcType": "CA"
+                       }]
+}
